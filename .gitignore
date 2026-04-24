@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Spring Boot
+*.log
+
+# OS
+.DS_Store
+
+# Environment
+.env
+application-local.yml
